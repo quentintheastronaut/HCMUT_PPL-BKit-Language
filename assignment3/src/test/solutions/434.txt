@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Assign(Id(x),CallExpr(Id(foo),[Id(z),Id(z),Id(z)]))

@@ -1,0 +1,18 @@
+
+        Function: fact
+            Parameter: n
+            Body:
+                If n == 0 Then
+                    Return 1;
+                Else
+                    n[1] = n + 2;
+                    Return n * fact(n-1);
+                EndIf.
+            EndBody. 
+
+        Function: main
+            Body:
+                x = 10;
+                fact(x);
+            EndBody.
+        

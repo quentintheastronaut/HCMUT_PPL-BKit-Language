@@ -1,0 +1,5 @@
+
+            Var: x = {123, {345, {567}}};
+            Var: x = {True, False, "Hihihi", 0x1234};
+            Var: x = {};
+        

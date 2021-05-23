@@ -1,0 +1,6 @@
+
+        Function: aloha
+        Body:
+            a = 1.23;
+        EndBody.
+        

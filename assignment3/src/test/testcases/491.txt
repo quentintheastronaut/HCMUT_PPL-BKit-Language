@@ -1,0 +1,16 @@
+
+        Function: main
+            Body:
+                Var: i = True,a = 0;
+
+                While True Do
+                    While a <= 12 Do
+                        a = a +. 1;
+
+                    EndWhile.
+
+                EndWhile.
+
+            EndBody.
+
+            

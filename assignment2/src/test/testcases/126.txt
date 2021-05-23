@@ -1,0 +1,6 @@
+
+        Var: a = {True,False};
+        Var: b = {"String1","String2"};
+        Var: c = {9.23,8.5};
+        Var: d = {2,1,4};
+        

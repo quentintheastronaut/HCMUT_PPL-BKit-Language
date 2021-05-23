@@ -1,0 +1,23 @@
+
+        Function: add
+            Parameter: a,b
+            Body:
+                Var: x = 0.0;
+                x = a +. b;
+                Return x;
+            EndBody. 
+
+        Function: sub
+            Parameter: a,b
+            Body:
+                Var: x = 0.0;
+                x = a -. b;
+                Return x;
+            EndBody.     
+
+        Function: main
+            Body:
+                Var: a = 9.0, b = 2.0;
+                Return 0;
+            EndBody.
+        

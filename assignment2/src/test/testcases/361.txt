@@ -1,0 +1,5 @@
+Function: fib
+            Parameter: n
+            Body:
+            Var: str = "string";
+            EndBody.

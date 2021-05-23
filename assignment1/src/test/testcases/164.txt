@@ -1,0 +1,12 @@
+
+        Function: fib
+            Parameter: n
+            Body:
+                If n <= 1 Then
+                    Return n;
+                EndIf.
+
+                Return *;
+            EndBody.
+        
+        

@@ -1,0 +1,14 @@
+
+        Function: main
+            Body:
+                Var: a = 1.;
+                If a >. 5. Then 
+                    a = 4. +. 1.;
+                ElseIf a <. 5. Then
+                    a = 4. -. 1.;
+                Else 
+                    a = 5.;
+                EndIf.
+            EndBody.
+
+        

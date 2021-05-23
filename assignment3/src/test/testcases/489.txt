@@ -1,0 +1,80 @@
+
+        Function: main
+        Body:
+            Var: bool = True, int = 1, float = 1., string = "quan";
+            Var: x1;
+            Var: x2;
+            Var: x3;
+            Var: x4;
+            Var: x5;
+            Var: x6;
+            Var: x7;
+            Var: x8;
+            Var: x9;
+            Var: x10;
+            Var: x11;
+            Var: x12;
+            Var: x13;
+            Var: x14;
+            Var: x15;
+            Var: x16;
+            Var: x17;
+            Var: x18;
+            Var: x19;
+            Var: x20;
+            Var: x21;
+            Var: x22;
+            Var: x23;
+            Var: x24;
+            Var: x25;
+            Var: x26;
+            Var: x27;
+            Var: x28;
+            Var: x29;
+            Var: x30;
+            Var: x31;
+            Var: x32;
+            Var: x33;
+            Var: x34;
+            Var: x35;
+            Var: x36;
+            Var: x37;
+            Var: x38;
+            Var: x39;
+            Var: x40;
+            Var: x41;
+            Var: x42;
+            Var: x43;
+            Var: x44;
+            Var: x45;
+            Var: x46;
+            Var: x47;
+            bool = !x1;
+            int = -x2;
+            float = -.x3;
+            bool = x4 || x5;
+            bool = x6 && x7;
+            bool = x8 == x9;
+            bool = x10 != x11;
+            bool = x12 < x13;
+            bool = x14 > x15;
+            bool = x16 <= x17;
+            bool = x18 >= x19;
+            bool = x20 =/= x21;
+            bool = x22 <. x23;
+            bool = x24 >. x25;
+            bool = x26 <=. x27;
+            bool = x28 >=. x29;
+            int = x30 + x31;
+            int = x32 - x33;
+            int = x34 * x35;
+            int = x36 \ x37;
+            int = x38 % x39;
+
+            float = x40 +. x41;
+            float = x42 -. x43;
+            float = x44 *. x45;
+            float = x46 \. x47;
+        EndBody.
+
+        

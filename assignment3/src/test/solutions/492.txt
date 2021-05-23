@@ -1,0 +1,1 @@
+Type Mismatch In Statement: While(Id(a),[],[If(BinaryOp(==,Id(a),IntLiteral(0)),[],[CallStmt(Id(printStr),[StringLiteral(quan cute so 1)])])Else([],[])])

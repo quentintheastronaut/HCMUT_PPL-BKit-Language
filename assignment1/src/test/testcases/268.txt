@@ -1,0 +1,6 @@
+
+Function: main
+    Body:
+        For (Var: a = 1, a < 10, 1) Do
+        EndFor.
+    EndBody.

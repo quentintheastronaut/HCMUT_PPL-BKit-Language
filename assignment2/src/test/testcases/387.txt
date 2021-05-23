@@ -1,0 +1,6 @@
+
+        Function: bku
+        Body:
+            a = 1.e12;
+        EndBody.
+        

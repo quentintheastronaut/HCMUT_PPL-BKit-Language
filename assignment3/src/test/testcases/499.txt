@@ -1,0 +1,10 @@
+
+        
+        Function: main
+            Body:
+                Do
+
+                While i<=12 EndDo.
+                
+            EndBody.
+            

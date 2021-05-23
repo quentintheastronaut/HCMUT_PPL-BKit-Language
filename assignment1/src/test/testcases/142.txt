@@ -1,0 +1,16 @@
+
+        Function: main
+        Body:
+            Var: i;
+            Var: count = 100;
+            For i = 0 , i < 10 ,2 Do
+                If count == 105 Then
+                    count = count + i;
+                    Break
+                Else 
+                    count = count + i;
+                    Continue;
+                EndIf.  
+            EndFor.
+        EndBody.
+        

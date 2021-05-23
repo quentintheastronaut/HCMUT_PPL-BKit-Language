@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(bku)[],([][Assign(Id(a),FloatLiteral(1000000000000.0))]))])

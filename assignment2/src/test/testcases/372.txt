@@ -1,0 +1,10 @@
+
+        Function: main
+        Body:
+            Var: a = b;
+            b = bamboo();
+            Var: c = aloha(1,True,"hihihaha");
+            d = hieuthu[1];
+            e = eeniemineymoo()[1];
+        EndBody.
+        

@@ -1,0 +1,22 @@
+
+        Function: fib
+            Parameter: n
+            Body:
+                If n <= 1 Then
+                    Return n;
+                EndIf.
+
+                Return fib(n-1)+fib(n-2);
+            EndBody.
+
+        Function: main
+            Body:
+                Var: n = 9;
+                Var: list[2] = {0,0} ;
+                list[ 1+2*3+9*12*12-6-7 ] = fib(12);
+                print(fib(n));
+                read();
+                Return 0;
+            EndBody.
+
+        

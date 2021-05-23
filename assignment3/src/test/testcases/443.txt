@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),VarDecl(Id(y)),FuncDecl(Id(main)[],([][Assign(Id(x),IntLiteral(3)),Assign(Id(y),CallExpr(Id(float_of_int),[Id(x)])),CallStmt(Id(print),[CallExpr(Id(string_of_int),[Id(y)])])]))])

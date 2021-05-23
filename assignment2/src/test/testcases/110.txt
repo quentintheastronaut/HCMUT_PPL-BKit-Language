@@ -1,0 +1,5 @@
+
+        Var: name = "Dang Nhat Quan";
+        Var: studentID = "K1813694";
+        Var: classID = "KH1040";
+        

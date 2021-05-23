@@ -1,0 +1,1 @@
+Var: intNumber = 1 ;

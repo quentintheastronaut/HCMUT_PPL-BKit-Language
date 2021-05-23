@@ -1,0 +1,7 @@
+Function: main
+        Body:
+            foo();
+            fib();
+            remove();
+            get();
+        EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(lambda)[],([][Dowhile([VarDecl(Id(b),BinaryOp(+,IntLiteral(11),IntLiteral(24)))],[CallStmt(Id(foo),[IntLiteral(12)])],BooleanLiteral(true))]))])

@@ -1,0 +1,6 @@
+
+            Function: delete
+            Body:
+                a = .756785e-123213;
+            EndBody.
+            

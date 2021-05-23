@@ -1,0 +1,10 @@
+
+        Function: lambda
+    Body:
+        Do
+            Var: b = 11+24;
+            foo(12);
+        While True
+        EndDo.
+    EndBody.
+        

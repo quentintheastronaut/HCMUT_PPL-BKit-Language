@@ -1,0 +1,28 @@
+
+Function: foo
+    Parameter: a[5], b
+    Body:
+        Var: i = 0;
+        While (i < 5) Do
+            a[i] = b + 1;
+            i = i + 1;
+        EndWhile.
+        Return a;
+    EndBody.
+
+Function: foo2
+    Parameter: a[5], b
+    Body:
+        Var: i = 0, c[5];
+        While (i < 5) Do
+            a[i] = b +. 1.0;
+            i = i + 1;
+            c[i] = int_of_float(a[i]);
+        EndWhile.
+        Return c;
+    EndBody.
+
+Function: main
+    Body:
+        foo(foo2({1., 2., 3., 4., 5.}, 0.), 1)[2] = 1;
+    EndBody.

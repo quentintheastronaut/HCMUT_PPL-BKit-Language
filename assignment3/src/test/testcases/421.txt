@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),FuncDecl(Id(foo)[VarDecl(Id(y)),VarDecl(Id(z))],([][CallStmt(Id(foo),[IntLiteral(3),Id(x)])])),FuncDecl(Id(main)[],([][]))])

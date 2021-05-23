@@ -1,0 +1,15 @@
+
+            Function: main
+            Body:
+                Var: i = True,a = 0;
+
+                While a Do
+                    If a == 0 Then printStr("quan cute so 1");
+                    Elseif a > 0 Then printStr("quan cung cute so 1");
+                    Else printStr("quan van cute so 1"); EndIf
+
+                EndWhile.
+
+            EndBody.
+
+            

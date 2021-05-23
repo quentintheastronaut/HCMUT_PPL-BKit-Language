@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][While(BooleanLiteral(true),[VarDecl(Id(quan),StringLiteral(True))],[Assign(Id(quan),StringLiteral(False)),CallStmt(Id(bFS),[Id(quan)])])]))])

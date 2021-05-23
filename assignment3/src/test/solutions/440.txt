@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id(print),[BinaryOp(||,BinaryOp(&&,Id(x),Id(y)),BinaryOp(||,BooleanLiteral(false),BinaryOp(>,Id(z),IntLiteral(3))))])

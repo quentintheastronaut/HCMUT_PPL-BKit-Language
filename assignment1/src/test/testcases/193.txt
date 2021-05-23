@@ -1,0 +1,9 @@
+
+        Function: hellokitty
+        Body:
+            Body:
+                Var: a =7;
+            EndBody.
+        EndBody.
+        
+        

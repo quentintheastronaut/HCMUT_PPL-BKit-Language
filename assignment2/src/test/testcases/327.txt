@@ -1,0 +1,16 @@
+
+        Function: fib
+            Parameter: n
+            Body:
+                If n <= 1 Then
+                    Return n;
+                EndIf.
+
+                Return fib(n-1) + fib(n-2);
+            EndBody.
+        Function: main
+            Body:
+                Var: n = 9;
+                Return 0;
+            EndBody.
+        

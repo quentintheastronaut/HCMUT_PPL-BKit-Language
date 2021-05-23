@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Return(CallStmt(Id(fooo),[BinaryOp(-,BinaryOp(+,IntLiteral(214567),IntLiteral(214567)),BinaryOp(*,BinaryOp(\,BinaryOp(*,IntLiteral(12345678),IntLiteral(5678)),IntLiteral(67890989)),IntLiteral(4567)))]))]))])

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(y),FloatLiteral(4.0)),VarDecl(Id(a),FloatLiteral(4.0)),FuncDecl(Id(foo)[],([][Return(Id(y))])),FuncDecl(Id(main)[],([][Assign(Id(y),BinaryOp(+.,Id(a),CallExpr(Id(foo),[])))]))])

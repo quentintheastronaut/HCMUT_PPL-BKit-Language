@@ -1,0 +1,6 @@
+
+        Function: hcmut
+        Body:
+            a = 1.e-12;
+        EndBody.
+        

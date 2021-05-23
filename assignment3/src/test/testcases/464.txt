@@ -1,0 +1,22 @@
+
+        Var: a,b,c,d,e[2];
+        
+        Function: foo
+        Parameter: a,b
+        Body:
+            Var: i = 0;
+    
+        EndBody.
+        
+        Function: main
+        Body:
+            Var: x = 0;
+            a = 1;
+            b = 12.6;
+            c = "string";
+            d = True;
+            e[x] = 0;
+            e[b] = 1;
+            Var: h[100];
+            
+        EndBody.

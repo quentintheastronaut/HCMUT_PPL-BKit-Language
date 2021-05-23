@@ -1,0 +1,6 @@
+
+Function: main
+    Body:
+        For (a, a < 10, 1) Do
+        EndFor.
+    EndBody.

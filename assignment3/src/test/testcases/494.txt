@@ -1,0 +1,19 @@
+
+            Function: foo
+            Parameter: x, y
+            Body:
+                Return x*y;
+            EndBody.
+
+        Function: fibonacci
+            Parameter: a, b, c
+            Body:
+                Return a + foo(b, c);
+            EndBody.
+
+        Function: main
+            Body:
+                Var: h = 1;
+                
+            EndBody.
+            

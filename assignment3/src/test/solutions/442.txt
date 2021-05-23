@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id(printStrLn),[CallExpr(Id(bool_of_string),[CallExpr(Id(string_of_bool),[BinaryOp(||,BinaryOp(&&,Id(x),Id(y)),BinaryOp(||,BooleanLiteral(false),BinaryOp(>,Id(z),IntLiteral(3))))])])])

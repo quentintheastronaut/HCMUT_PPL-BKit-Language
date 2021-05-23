@@ -1,0 +1,10 @@
+
+        Function: main
+        Body:
+            Var: flag = True, a =2;
+            Var: a[10];
+            For i = 0 , i < 10 ,2 Do
+                a[i] = i;
+            EndFor.
+        EndBody.
+        

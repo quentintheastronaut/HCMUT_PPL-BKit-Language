@@ -1,0 +1,18 @@
+
+        Function: main
+        Body:
+            Var: i = 2;
+            Var: count = 100;
+            If count == 105 Then
+                count = count + i;    
+            ElseIf count == 206 Then
+                count = count + 2*i; 
+            ElseIf count == 207 Then
+                count = count + 3*i;  
+            ElseIf count == 208 Then
+                count = count + 4*i;   
+            Else 
+                count = count + i;
+            EndIf.  
+        EndBody.
+        

@@ -1,0 +1,12 @@
+
+        Function: main
+        Body:
+            Var: flag = True, a =2;
+            Var: a[10][10];
+            For i = 0 , i < 10 ,2 Do
+                For i = 0 , i < 10 ,2 Do
+                    a[i][j]  = i+j;
+                EndFor.
+            EndFor.
+        EndBody.
+        

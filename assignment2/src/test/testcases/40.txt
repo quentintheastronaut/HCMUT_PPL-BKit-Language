@@ -1,0 +1,26 @@
+
+        Function: mul
+            Parameter: a,b
+            Body:
+                Var: x = 0.0;
+                x = a *. b;
+                Return x;
+            EndBody. 
+
+        Function: div
+            Parameter: a,b
+            Body:
+                Var: x = 0.0;
+                x = a \. b;
+                Return x;
+            EndBody.     
+
+        Function: main
+            Body:
+                Var: a = 9.0, b = 2.0;
+                print(mul(a,b));
+                print(div(a,b));
+                Return 0;
+            EndBody.
+
+        

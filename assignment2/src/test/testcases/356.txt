@@ -1,0 +1,12 @@
+Function: main
+        Body:
+            Var: flag = True, a =2;
+            Var: count = 100;
+            Do
+                count = count +. 10;
+                If count == 80 Then
+                    flag = False;
+                EndIf.
+            While count < 10 && flag != False 
+            EndDo.
+        EndBody.

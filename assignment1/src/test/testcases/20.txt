@@ -1,0 +1,1 @@
+Var: a[2] = {1,2}, b[1] = {True}, c = {1.5,2.5} , d = {"abc","xyz"} , e[2] = {True,"False"}

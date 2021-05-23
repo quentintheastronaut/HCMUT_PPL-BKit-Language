@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(tomcruise)[],([][Assign(Id(a),Id(a))]))])

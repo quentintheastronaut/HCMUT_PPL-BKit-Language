@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),VarDecl(Id(y)),FuncDecl(Id(main)[],([][Assign(Id(x),BooleanLiteral(false)),Assign(Id(y),StringLiteral(True)),Assign(Id(x),CallExpr(Id(bool_of_string),[Id(y)])),CallStmt(Id(print),[CallExpr(Id(bool_of_string),[Id(y)])])]))])

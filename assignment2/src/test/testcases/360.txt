@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            foo(1);
+            fib(2+42+324 \ 234*24332);
+            remove(3);
+            get(4);
+        EndBody.

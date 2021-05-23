@@ -1,0 +1,10 @@
+
+        Function: main
+    Body:
+        While True Do
+            Var: quan = "True";
+            quan = "False";
+            bFS(quan);
+        EndWhile.
+    EndBody. 
+        

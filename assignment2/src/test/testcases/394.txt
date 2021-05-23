@@ -1,0 +1,26 @@
+
+        Function: main
+    Body:
+        If True Then
+        ElseIf True Then
+            If True Then
+            ElseIf True Then
+                If True Then
+                ElseIf True Then
+                ElseIf True Then
+                    If True Then
+                        Return 1;
+                    ElseIf True Then
+                        Return 2;
+                    Else
+                        Return 3;
+                    EndIf.
+                Else 
+                EndIf.
+                
+            Else
+            EndIf.
+        Else
+        EndIf.
+    EndBody.
+        

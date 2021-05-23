@@ -1,0 +1,5 @@
+
+        Function: mummy
+        Body:
+            a = !a > b || c + d * e[2];
+        EndBody.

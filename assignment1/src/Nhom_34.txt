@@ -1,0 +1,39 @@
+program: manydec EOF | EOF; 
+
+manydec:  dec manydec | dec;
+
+dec: variable | function;
+
+variable : primtype idlist SM;
+
+function : primtype ID LB parameter RB body ;
+
+parameter : primtype idlist SM parameter | primtype idlist ;
+
+body: LP variable* statement*  RP;
+
+statement: assignment | call | rt;
+
+assignment: ID EQ expr SM;
+
+call: ID LP exprlist RP SM;
+
+rt: RETURN expr SM;
+
+expr: expr1 ADD expr | expr1;
+
+expr1: expr2 SUB expr2 | expr2;
+
+expr2: expr2 MUL expr3 | expr2 DIV expr3 ;
+
+expr3: expr | operand;
+
+operand: ID  | INTLIT | FLOATLIT | call;
+
+exprlist: expr CM exprlist | expr; 
+
+operater: ADD | SUB | MUL | DIV;
+
+idlist : ID CM idlist | ID;
+
+primtype : INTTYPE | FLOATTYPE;

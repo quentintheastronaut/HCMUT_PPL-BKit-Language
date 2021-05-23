@@ -1,0 +1,20 @@
+
+            Function: main
+            Body:
+                Var: i ;
+
+                For (i = 0, i < 10, i+1) Do
+                EndFor.
+
+                If i > 12 Then
+                Else
+                EndIf.
+
+                While i <= 12 Do
+                EndWhile.
+
+                Do
+                While i<=12 EndDo.
+            EndBody.
+
+            

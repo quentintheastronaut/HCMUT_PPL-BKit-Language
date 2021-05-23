@@ -1,0 +1,9 @@
+
+Function: main
+    Body:
+        If True Then
+        Else
+            Var: a;
+            foo();
+        EndIf.
+    EndBody.

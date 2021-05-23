@@ -1,0 +1,11 @@
+
+        ** this is comment 
+        hello
+        block commment
+        **
+        Function: fib
+            Parameter: n
+            Body:
+            Var: str = "string \r \t \\ \n";
+            EndBody.
+        

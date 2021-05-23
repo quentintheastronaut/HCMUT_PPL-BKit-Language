@@ -1,0 +1,20 @@
+
+        Var: x, y[1], z[1][1], q =54123421, u = 1e2142, a = "Hello", n = False, i = {{1,3},{1,2}};
+
+Function: babyboo
+    Parameter: a, b[1], c[1][1]
+    Body:
+        Var: a = 1, b = 1., c = "", d = True;
+        While a < 10 Do
+            Var: b = 1;
+            While b < 10 Do
+                quan = quan * bap;
+                b = b + 1;
+            EndWhile.
+            sum = sum + count;
+            bap = cui + 1;
+            Var: count = 1;
+        EndWhile.
+        Var: sum = 0;
+    EndBody.
+        

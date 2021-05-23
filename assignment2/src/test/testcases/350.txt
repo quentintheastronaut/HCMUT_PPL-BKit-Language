@@ -1,0 +1,10 @@
+Function: main
+        Body:
+            Var: i = 2;
+            Var: count = 100;
+            If count == 105 Then
+                count = count + i;              
+            Else 
+                count = count + i;
+            EndIf.  
+        EndBody. 

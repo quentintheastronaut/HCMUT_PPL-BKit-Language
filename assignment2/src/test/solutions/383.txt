@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(delete)[],([][Assign(Id(a),FloatLiteral(0.0))]))])

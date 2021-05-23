@@ -1,0 +1,12 @@
+
+        Function: main
+        Body:
+            Var: str = "This string have \t";
+            Var: str = "This string have \f";
+            Var: str = "This string have \r";
+            Var: str = "This string have \b";
+            Var: str = "This string have \\";
+            Var: str = "This string have \'";
+            Var: str = "This string have '"";
+        EndBody.
+        

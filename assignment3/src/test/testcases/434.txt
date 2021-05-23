@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),VarDecl(Id(y)),VarDecl(Id(z)),FuncDecl(Id(foo)[VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c))],([][Assign(Id(a),IntLiteral(3)),Assign(Id(b),IntLiteral(3)),Assign(Id(c),IntLiteral(3)),Return(FloatLiteral(5.5))])),FuncDecl(Id(main)[],([][Assign(Id(x),IntLiteral(3)),Assign(Id(z),IntLiteral(3)),Assign(Id(x),CallExpr(Id(foo),[Id(z),Id(z),Id(z)]))]))])

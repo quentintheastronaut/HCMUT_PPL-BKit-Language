@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Return(BinaryOp(+,CallStmt(Id(abc),[IntLiteral(1231231),IntLiteral(123123),ArrayLiteral(IntLiteral(1),IntLiteral(3),IntLiteral(1),IntLiteral(3),IntLiteral(1),IntLiteral(2))]),CallStmt(Id(bts),[StringLiteral(quan)])))]))])

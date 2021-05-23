@@ -1,0 +1,25 @@
+
+        Function: fib
+            Parameter: n
+            Body:
+                Var: f[n + 1],i;
+
+                f[0] = 0;
+                f[1] = 1;
+
+                For i = 2 , i <= n , i = i + 1 Do 
+                    f[i] = f[i - 1] + f[i - 2];
+                EndDO
+
+                Return f[n];
+            EndBody.
+
+        Function: main
+            Body:
+                Var: n = 9;
+                print(fib(n));
+                read();
+                Return 0;
+            EndBody.
+
+        

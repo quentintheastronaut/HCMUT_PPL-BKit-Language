@@ -1,0 +1,11 @@
+Function: main
+        Body:
+            Var: a = 5.0, destination = 8.0;
+            Var: flag = True;
+            While a < 10 && flag != False Do
+                a = a +. 1.0;
+                If a == 8.0 Then
+                    flag = False;
+                EndIf.
+            EndWhile.
+        EndBody.

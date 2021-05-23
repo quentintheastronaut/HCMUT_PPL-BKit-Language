@@ -1,0 +1,1 @@
+Type Mismatch In Statement: If(Id(z),[VarDecl(Id(manh))],[Assign(Id(z),IntLiteral(5)),Assign(Id(y),BinaryOp(+.,Id(a),Id(a)))])Else([],[])

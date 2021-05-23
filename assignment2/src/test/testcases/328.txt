@@ -1,0 +1,23 @@
+
+        Function: fib
+            Parameter: n
+            Body:
+                Var: f[3],i;
+
+                f[0] = 0;
+                f[1] = 1;
+
+                For( i = 2 , i <= n , i + 1 )Do 
+                    Var: a = 11;
+                    Return a;
+                EndFor.
+
+                Return f[5];
+            EndBody.
+
+        Function: main
+            Body:
+                Var: n = 9;
+                Return 0;
+            EndBody.
+        

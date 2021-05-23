@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fib)[VarDecl(Id(n))],([VarDecl(Id(str),StringLiteral(string))][]))])

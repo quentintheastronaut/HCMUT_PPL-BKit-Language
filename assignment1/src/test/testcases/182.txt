@@ -1,0 +1,26 @@
+
+        Function: hello
+            Parameter: n
+            Body:
+                If a == 1 Then
+                    Return 1;
+                EndIf.
+
+                For i = 0 , i < 10 ,2 Do
+                    Return i;
+                EndFor.
+
+                Do
+                count = count +. 10;
+                    If count == 80 Then
+                        Return 5;
+                    EndIf.
+                While count < 10 && flag != False 
+                EndDo.
+
+                While count < 10 && flag != False Do
+                    count = count +. 10;
+                    Return "hello";
+                EndWhile.
+            EndBody.
+        

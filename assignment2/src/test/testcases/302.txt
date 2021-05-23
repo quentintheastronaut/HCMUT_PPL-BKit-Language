@@ -1,0 +1,1 @@
+Var: floatNumber = 1.56 ;

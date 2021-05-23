@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id(print),[CallExpr(Id(bool_of_string),[Id(y)])])

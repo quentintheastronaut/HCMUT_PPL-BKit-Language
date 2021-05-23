@@ -1,0 +1,9 @@
+
+Function: main
+    Body:
+        a = b;
+        a = foo();
+        a = foo(1,True);
+        a = a[1];
+        a = foo()[1];
+    EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Return(ArrayCell(Id(a),[IntLiteral(12),IntLiteral(12)]))]))])

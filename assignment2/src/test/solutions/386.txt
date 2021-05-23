@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(hcmut)[],([][Assign(Id(a),FloatLiteral(1e-12))]))])

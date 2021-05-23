@@ -1,0 +1,1 @@
+Program([VarDecl(Id(name),StringLiteral(Dang Nhat Quan)),VarDecl(Id(studentID),StringLiteral(K1813694)),VarDecl(Id(classID),StringLiteral(KH1040))])

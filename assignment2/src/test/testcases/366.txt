@@ -1,0 +1,24 @@
+
+        Var: a;
+        Var: b[3];
+        Var: c[5][2];
+        Var: d = 1813694;
+        Var: e = 1e14;
+        Var: str  = "Hello";
+        Var: flag = True;
+        Var: i = {{5,6},{4,7}};
+
+        Function: test
+        Parameter: x, y[3], z[4][5]
+            Body:
+                Var: m = 0, n = 1.45 , p = "", q = False;
+                Var: sum = 0;
+                While m <= 10 Do
+                    For (i = 0 , i < d ,i + 1) Do
+                    n = n + 3.14;
+                    EndFor.
+                EndWhile.
+                sum = sum*2 + m + n + d;
+            Return sum;
+        EndBody.
+        

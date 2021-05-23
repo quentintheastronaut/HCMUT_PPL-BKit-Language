@@ -1,0 +1,18 @@
+
+        Function: main
+        Body:
+            Var: i = 2;
+            Var: count = 100;
+            If count == 105 Then
+                count = count + i; 
+                If count == 108 Then
+                    count = count + i;   
+                EndIf. 
+            Else 
+                count = count - i;
+                If count == 99 Then
+                    count = count + i;   
+                EndIf. 
+            EndIf.  
+        EndBody.
+        
